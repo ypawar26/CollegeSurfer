@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<?xml-stylesheet href="au.xsl" type="text/xsl" ?>
+
+
+<course>
+	<details>
+		<course_name>MBA</course_name>
+		<LINK VALUE="mba1_au.html">2001</LINK>
+		<college_name>mgm institue of management and research -[mgm iom and r]</college_name>
+		</details>
+		<details>
+		<course_name></course_name>
+		<LINK VALUE="mba2_au.html">2002</LINK>
+		<college_name>GS Mandal’s Maharashtra Institute of Technology, Aurangabad</college_name>
+	</details>
+
+
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>BE</course_name>
+		<LINK VALUE="be1_au.html">2003</LINK>
+		<college_name>Government College of Engineering, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="be2_au.html">2004</LINK>
+		<college_name>Department of Chemical Technology -Dr Babasaheb Ambedkar Marathwada University, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="be3_au.html">2005</LINK>
+		<college_name>Hi-Tech Institute of Technology, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>BCA</course_name>
+		<LINK VALUE="bca1_au.html">2006</LINK>
+		<college_name>Vasantrao Naik Mahavidyalaya, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="bca2_au.html">2007</LINK>
+		<college_name>Marathwada Shikshan Prasarak Mandals Vinayakrao Patil Mahavidyalaya</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+
+
+	<details>
+		<course_name>MBBS</course_name>
+		<LINK VALUE="mbbs1_au.html">2008</LINK>
+		<college_name>Government Medical College, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="mbbs2_au.html">2009</LINK>
+		<college_name>Mahatma Gandhi Mission's Medical College (MGM Medical College), Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+
+	<details>
+		<course_name>BCOM</course_name>
+		<LINK VALUE="bcom1_au.html">2010</LINK>
+		<college_name>Vasantrao Naik Mahavidyalaya, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="bcom2_au.html">2011</LINK>
+		<college_name>SBES College of Arts and Commerce, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="bcom2_au.html">2012</LINK>
+		<college_name>Shivaji Arts Commerce and Science College - Kannad, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+
+	<details>
+		<course_name>Arts</course_name>
+		<LINK VALUE="arts_au.html">2013</LINK>
+		<college_name>Vivekanand Arts, Sardar Dalipsingh Commerce and Science College</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>LLB</course_name>
+		<LINK VALUE="llb1_au.html">2014</LINK>
+		<college_name>Manikchand Pahade Law College, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="llb2_au.html">2015</LINK>
+		<college_name>Dr Ambedkar Law College, Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	
+	<details>
+		<course_name>pharmacy</course_name>
+		<LINK VALUE="pharmacy_au.html">2016</LINK>
+		<college_name>YB Chavan College of Pharmacy</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>Fine Arts</course_name>
+		<LINK VALUE="fa_au.html">2017</LINK>
+		<college_name>Dr Babasaheb ambedkr marathwada university-[bamu],Aurangabad</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>Nursing</course_name>
+		<LINK VALUE="nursing1_au.html">2018</LINK>
+		<college_name>Goernment medical college and hospital,aurangabad</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="nursing2_au.html">2019</LINK>
+		<college_name>Mahatma Gandhi missions institue of nursing education.Aurangabad</college_name>
+	</details>
+</course>

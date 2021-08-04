@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<?xml-stylesheet href="bla.xsl" type="text/xsl" ?>
+<course>
+	<details>
+		<course_name>MBA</course_name>
+		<LINK VALUE="mba1.html">1001</LINK>
+		<college_name>G. H. Raisoni University</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="mba2_am.html">1002</LINK>
+		<college_name>Sipna College of Engineering and Technology</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="mba3_am.html">1003</LINK>
+		<college_name>Vidya Bharati Mahavidyalaya, Amravati</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="mba4_am.html">1004</LINK>
+		<college_name>Shri Hanuman Vyayam Prasarak Mandal's College of Engineering and Technology</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>BE</course_name>
+		<LINK VALUE="be1_am.html">1005</LINK>
+		<college_name>Government College of Engineering</college_name>
+	</details>
+	<details>
+		<course_name></course_name>
+		<LINK VALUE="be2_am.html">1006</LINK>
+		<college_name>Department of Chemical Technology, Amravati </college_name>
+	</details>
+		<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>BCA</course_name>
+		<LINK VALUE="bca1_am.html">1007</LINK>
+		<college_name>Vidya Bharati Mahavidyalaya, Amravati</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>Fashion Design</course_name>
+		<LINK VALUE="fd1_am.html">1009</LINK>
+		<college_name>Smt Kesharbai Lahoti Mahavidyalaya, Amravati</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+
+
+
+	<details>
+		<course_name>MBBS</course_name>
+		<LINK VALUE="mbbs1_am.html">1010</LINK>
+		<college_name>Dr Panjabrao Deshmukh Memorial Medical College, Amravati</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+
+	<details>
+		<course_name>BCOM</course_name>
+		<LINK VALUE="bcom1_am.html">1011</LINK>
+		<college_name>Shri Shivaji Arts and Commerce College, Amravati</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+
+	<details>
+		<course_name>Arts</course_name>
+		<LINK VALUE="arts1_am.html">1012</LINK>
+		<college_name>Sant Gadge Baba Amravati University (SGBAU)</college_name>
+	</details>
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>LLB</course_name>
+		<LINK VALUE="llb1_am.html">1013</LINK>
+		<college_name>Dr Panjabrao Deshmukh College of Law, Amravati</college_name>
+	</details>	
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>B.ED</course_name>
+		<LINK VALUE="bed1_am.html">1014</LINK>
+		<college_name>Shree HVP Mandals Degree College of Physical Education, Amravati</college_name>
+	</details>	
+	<details>
+		<course_name>-------------------------------------------------</course_name>
+		<college_name>-------------------------------------------------------------------------------------------------------------------------------------------------------------</college_name>
+	</details>
+	<details>
+		<course_name>pharmacy</course_name>
+		<LINK VALUE="pharm1_am.html">1015</LINK>
+		<college_name>Vidyabharati College of Pharmacy, Amravati</college_name>
+	</details>	
+
+
+</course>

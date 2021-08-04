@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>ABOUT US</title>
+
+</head>
+<style>
+  body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #66b3ff;
+  color: white;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, .25);
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+.container {
+  padding: 0 16px;
+  text-align: center;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 5px 20px
+  border: 3px solid #fff;
+}
+
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+  
+</style>
+<body>
+  <div class="about-section">
+    <li><a href = "index.html" style="float:right" > HOME </a></li></button>
+    <img src="logo13.png" alt="logo" style="width:400px;height:200px;">
+    <h1>About Us </h1>
+    <p style="color:white;font-size:20px;">College Surfer is a website that is created to help aspiring students find the best college for them using their own preferences </p>
+    <p style="color:white;font-size:20px;">This site uses a simple and interactive UI to help find the desired colleges quickly</p>
+  </div>
+
+  <h2 style="text-align:center">Our Team</h2>
+  <div class="row">
+    <div class="column">
+      <div class="card">
+        <img src="female.PNG" alt="female avatar" style="width:50%" class="center" >
+        <div class="container">
+          <h2>Vrundali Navadiya</h2>
+          <p class="title">Founder, CEO</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="column">
+      <div class="card">
+        <img src="male.PNG" alt="male avatar" style="width:50%" class="center">
+        <div class="container">
+          <h2>Yashodeep Pawar</h2>
+          <p class="title">Founder, Developer</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="column">
+      <div class="card">
+        <img src="male.PNG" alt="male avatar" style="width:50%" class="center">
+        <div class="container">
+          <h2>Sheldon Moonjelil</h2>
+          <p class="title">Founder, UI Designer</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
